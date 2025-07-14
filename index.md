@@ -7,4 +7,6 @@ This site serves as a public repository of personal writings, observations, crit
 
 All writings are freely accessible to anyone who finds value in them. Contributions via Buy Me a Coffee are welcomed but not expected. New entries may be retrospectives from my mental archive or fresh ideas, and older ones may be refined to improve clarity and relevance. Think of this as an evolving archive of independent thought.
 
+---
+
 [LEARN and IMPROVE](learn-improve)
