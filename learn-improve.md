@@ -31,6 +31,6 @@ Most of us search for meaning...
 
 ---
 
-![LEARN-IMPROVE Logo](https://raw.githubusercontent.com/jhbrooks13/jhbrooks13.github.io/main/assets/logo.png)
+![LEARN-IMPROVE Logo](https://github.com/jhbrooks13/jhbrooks13.github.io/blob/cb2a4f33b72e25c808bee5c292b32e945833d207/assets/Simple%20Glyph.png)
 
 Support this work: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
