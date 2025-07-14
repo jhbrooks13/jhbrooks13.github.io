@@ -1,6 +1,6 @@
 ---
-title: LEARN and IMPROVE Creed
 layout: page
+title: LEARN and IMPROVE Creed
 ---
 
 # LEARN and IMPROVE
