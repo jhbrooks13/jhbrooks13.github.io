@@ -9,6 +9,7 @@ All writings are freely accessible to anyone who finds value in them. Contributi
 
 ---
 
+[Brooks' Law of Assumptions](Brooks-Law-of-Assumptions)
 [LEARN and IMPROVE](learn-improve)
 <br><br>
 
