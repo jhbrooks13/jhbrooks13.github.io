@@ -49,6 +49,7 @@ The summary of my soul-searching is that I have two purposes: to learn and to im
 -	⨹ represents improvement: a Delta with a plus sign, suggesting not just change, but positive, intentional change.
 -	As these symbols are rarely used and carry no fixed meaning, my appropriation of them avoids semantic collisions.
 -	This combined glyph, my symbol for the lifelong commitment to learning and improving, serves as my compass and reminder.
+
 ![LEARN-IMPROVE Logo](https://github.com/jhbrooks13/jhbrooks13.github.io/blob/cb2a4f33b72e25c808bee5c292b32e945833d207/assets/Simple%20Glyph.png)
 
 ---
