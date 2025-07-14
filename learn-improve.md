@@ -58,5 +58,8 @@ The summary of my soul-searching is that I have two purposes: to learn and to im
 
 ---
 ---
+<br><br><br>
+---
+---
 
 If you feel compelled to help support my work, [Buy Me a Coffee](https://coff.ee/jhbrooks13)
