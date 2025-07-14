@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Archive of Thought
+title: JHB Archive of Thought
 ---
 
 This site serves as a public repository of personal writings, observations, critiques, axioms, and provocations accumulated over decades of inquiry. These thoughts reflect a commitment to reason, introspection, and unfiltered candor. Topics include philosophy, logic, politics, and lived experience, with a distinctly open-minded liberal perspective that may occasionally unsettle conventional comfort zones.
