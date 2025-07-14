@@ -10,9 +10,7 @@ All writings are freely accessible to anyone who finds value in them. Contributi
 ---
 
 [LEARN and IMPROVE](learn-improve)
-
-
-
+<br><br><br>
 ---
 ---
 
