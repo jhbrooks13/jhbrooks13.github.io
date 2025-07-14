@@ -1,10 +1,8 @@
 ---
-title: LEARN and IMPROVE
 layout: home
+title: LEARN and IMPROVE
 ---
 
-Welcome to my personal philosophy site.
+Welcome to the philosophy of deliberate practice and lifelong learning.
 
-This space is dedicated to the lifelong pursuit of learning and improvement, expressed through symbolic glyphs and structured backronyms.
-
-Explore the creed, its meaning, and its visual representation below.
+Explore the full creed below.
