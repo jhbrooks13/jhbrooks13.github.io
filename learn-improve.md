@@ -57,7 +57,6 @@ The summary of my soul-searching is that I have two purposes: to learn and to im
 > If these principles resonate, I invite you to make them your own—adopt them, remix them, or use them as a launchpad. The pursuit of learning and improvement is never proprietary.
 
 ---
----
 <br><br><br>
 ---
 ---
