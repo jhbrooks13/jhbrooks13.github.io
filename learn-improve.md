@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LEARN and IMPROVE Creed
+title: LEARN and IMPROVE
 ---
 
 # LEARN and IMPROVE
@@ -31,6 +31,6 @@ Most of us search for meaning...
 
 ---
 
-![LEARN/IMPROVE Logo](https://raw.githubusercontent.com/your-username/your-repo/main/logo.png)
+![LEARN/IMPROVE Logo](https://raw.githubusercontent.com/jhbrooks13/jhbrooks13.github.io/main/assets/logo.png)
 
 Support this work: [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
