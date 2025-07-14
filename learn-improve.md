@@ -53,10 +53,10 @@ The summary of my soul-searching is that I have two purposes: to learn and to im
 ![LEARN-IMPROVE Logo](https://github.com/jhbrooks13/jhbrooks13.github.io/blob/cb2a4f33b72e25c808bee5c292b32e945833d207/assets/Simple%20Glyph.png)
 
 ---
----
+
 > If these principles resonate, I invite you to make them your own—adopt them, remix them, or use them as a launchpad. The pursuit of learning and improvement is never proprietary.
 
 ---
-
+---
 
 If you feel compelled to help support my work, [Buy Me a Coffee](https://coff.ee/jhbrooks13)
