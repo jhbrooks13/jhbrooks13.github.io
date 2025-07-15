@@ -1,5 +1,3 @@
-My most current version:
-
 # Government Intervention on Personal Medical Decisions
 
 Everyone has their own opinions on how much the government should be involved in individual medical decisions and how much the government should issue mandates to limit people’s choices. This is not a dissertation about where that line should be drawn. It is, however, a dissertation about the importance of consistently enforcing the line once drawn.
@@ -28,21 +26,23 @@ The question and parameters can be generalized as the following thought-experime
 - If Person A contributes to saving Person B, it will cost him T hours or days of immediate time, R hours or days or recovery time, and $C in real money out-of-pocket (each of these could also have compound loss of opportunity but that can’t be as easily quantified).
 - If Person A contributes to saving Person B, it will carry a D% risk of death and a P% risk of permanent disability.
 - If Person A contributes to saving Person B, Person B will gain S% chance of surviving.
-<br><br>
+
+<br>
 Based on the thought experiment above, my original question can be more clearly stated:
+
 > How much cost (money, time, opportunity) and personal risk (chance of death, chance of permanent disability) should the government **_force_** one person to undertake to improve another person’s chance of survival?
 
 <br>
 Any rational answer to that question will minimally include the six parameters above (T, R, D%, P%, $C, and S%). Every well-considered option could be documented in the following format:
 
-'''
+<code>
 > The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when:
-> - The plan will cost less than $C
-> - The plan will require spending less than T time to complete
+> - The plan will cost less than $C.
+> - The plan will require spending less than T time to complete.
 > - The recovery time after the plan is complete will take less than R time.
 > - The plan carries less than D% chance of death.
 > - The plan carries less than P% chance of permanent disability.
 > - The plan increases the survival chances for the other person by at least S%.
-'''
+</code>
 
 Any policy that mandates a medical path without addressing all six parameters or carves out special treatment for specific procedures is intellectually indefensible and ethically reckless.
