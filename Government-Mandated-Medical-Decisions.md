@@ -50,9 +50,9 @@ Any policy that mandates a medical path without addressing all six parameters or
 > - The plan will cost less than $C.
 > - The plan will require spending less than T time to complete.
 
-> <div style="font-family: monospace; font-size:90%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
-> - <div style="font-family: monospace; font-size:90%; line-height:1.3;">The plan will cost less than $C.</div>
-> - <div style="font-family: monospace; font-size:85%; line-height:1.2;">The plan will require spending less than T time to complete.</div>
+> <div style="font-family: monospace; font-size:95%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
+> - <div style="font-family: monospace; font-size:90%; line-height:1.2;">The plan will cost less than $C.</div>
+> - <div style="font-family: monospace; font-size:90%; line-height:1.2;">The plan will require spending less than T time to complete.</div>
 
 > <span style="font-family: monospace;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test F)</span>
 > - <span style="font-family: monospace;">The plan will cost less than $C.</span>
