@@ -30,7 +30,7 @@ The question and parameters can be generalized as the following thought-experime
 <br>
 Based on the thought experiment above, my original question can be more clearly stated:
 
-> How much cost (money, time, opportunity) and personal risk (chance of death, chance of permanent disability) should the government **_force_** one person to undertake to improve another person’s chance of survival?
+> How much cost (money, time, opportunity) and personal risk (chance of death, chance of permanent disability) should the government <u>**_force_**<\u> one person to undertake to improve another person’s chance of survival?
 
 <br>
 Any rational answer to that question will minimally include the six parameters above (T, R, D%, P%, $C, and S%). Every well-considered option could be documented in the following format:
