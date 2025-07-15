@@ -1,5 +1,4 @@
-
-# Government Intervention on Personal Medical Decisions
+## Government Intervention on Personal Medical Decisions
 
 Everyone has their own opinions on how much the government should be involved in individual medical decisions and how much the government should issue mandates to limit people’s choices. This is not a dissertation about where that line should be drawn. It is, however, a dissertation about the importance of consistently enforcing the line once drawn.
 
