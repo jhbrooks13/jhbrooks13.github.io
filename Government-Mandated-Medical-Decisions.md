@@ -35,40 +35,20 @@ Based on the thought experiment above, my original question can be more clearly 
 <br>
 Any rational answer to that question will minimally include the six parameters above (T, R, D%, P%, $C, and S%). Every well-considered option could be documented in the following format:
 
-<div style="margin-left: 4em;">
-The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when:
-  
-- The plan will cost less than $C.
-- The plan will require spending less than T time to complete.
-- The recovery time after the plan is complete will take less than R time.
-- The plan carries less than D% chance of death.
-- The plan carries less than P% chance of permanent disability.
-- The plan increases the survival chances for the other person by at least S%.
-</div>
+> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when:
+> - The plan will cost less than $C.
+> - The plan will require spending less than T time to complete.
+> - The recovery time after the plan is complete will take less than R time.
+> - The plan carries less than D% chance of death.
+> - The plan carries less than P% chance of permanent disability.
+> - The plan increases the survival chances for the other person by at least S%.
 
 Any policy that mandates a medical path without addressing all six parameters or carves out special treatment for specific procedures is intellectually indefensible and ethically reckless.
 
 
-### Test A — Plain Markdown with Quote and Bullet  
-> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This is a quoted paragraph using plain Markdown. It should wrap naturally and preserve indentation.  
-> - Single bullet for layout visibility  
-> *Test: Plain Markdown quote + bullet*
-
----
-
-### Test B — Triple Backtick Block Inside Quote  
-> ```
-> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This text is inside a monospaced block.  
-> - Single bullet for layout visibility  
-> Test: Triple backtick block  
-> ```
-> *Test: Quoted monospaced block via triple backticks*
-
----
-
 ### Test C — Inline `<code>` Inside Quote  
 > <code>The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This is inline code using a tag.</code>  
-> - Single bullet for layout visibility  
+> - <code>Single bullet for layout visibility  </code> 
 > *Test: Inline `<code>` inside a quote*
 
 ---
@@ -82,16 +62,7 @@ Any policy that mandates a medical path without addressing all six parameters or
 
 ---
 
-### Test E — `<pre>` Inside Quote  
-> <pre>The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This is preformatted text inside a quote block.
-Line two should remain intact.
-- Single bullet for layout visibility
-</pre>  
-> *Test: `<pre>` inside quote block*
-
----
-
 ### Test F — `<span>` Monospaced Inline Inside Quote  
 > <span style="font-family: monospace;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This is a span-styled monospaced block inside a quote.</span>  
-> - Single bullet for layout visibility  
+> - <span style="font-family: monospace;">Single bullet for layout visibility  </span>
 > *Test: Inline `<span>` inside quote block*
