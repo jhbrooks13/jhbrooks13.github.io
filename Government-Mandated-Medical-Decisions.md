@@ -45,13 +45,22 @@ Any rational answer to that question will minimally include the six parameters a
 
 Any policy that mandates a medical path without addressing all six parameters or carves out special treatment for specific procedures is intellectually indefensible and ethically reckless.
 
+> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test A)
+> - The plan will cost less than $C.
+> - The plan will require spending less than T time to complete.
 
-### Test C — Inline `<code>` Inside Quote  
-> <code>The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This is inline code using a tag.</code>  
-> - <code>Single bullet for layout visibility  </code> 
-> *Test: Inline `<code>` inside a quote*
+> <code>The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test C)</code>
+> - <code>The plan will cost less than $C.</code>
+> - <code>The plan will require spending less than T time to complete.</code>
 
----
+> <div style="font-family: monospace; white-space: normal;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
+> - <div style="font-family: monospace; white-space: normal;">The plan will cost less than $C.</div>
+> - <div style="font-family: monospace; white-space: normal;">The plan will require spending less than T time to complete.</div>
+
+> <span style="font-family: monospace;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test F)</span>
+> - <span style="font-family: monospace;">The plan will cost less than $C.</span>
+> - <span style="font-family: monospace;">The plan will require spending less than T time to complete.</span>
+
 
 ### Test D — `<div>` with Inline Styling Inside Quote  
 > <div style="font-family: monospace; white-space: normal;">
@@ -59,10 +68,3 @@ Any policy that mandates a medical path without addressing all six parameters or
 > </div>  
 > - Single bullet for layout visibility  
 > *Test: Styled `<div>` inside a quote*
-
----
-
-### Test F — `<span>` Monospaced Inline Inside Quote  
-> <span style="font-family: monospace;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This is a span-styled monospaced block inside a quote.</span>  
-> - <span style="font-family: monospace;">Single bullet for layout visibility  </span>
-> *Test: Inline `<span>` inside quote block*
