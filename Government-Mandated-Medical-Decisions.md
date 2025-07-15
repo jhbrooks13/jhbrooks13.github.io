@@ -35,33 +35,12 @@ Based on the thought experiment above, my original question can be more clearly 
 <br>
 Any rational answer to that question will minimally include the six parameters above (T, R, D%, P%, $C, and S%). Every well-considered option could be documented in the following format:
 
-> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when:
-> - The plan will cost less than $C.
-> - The plan will require spending less than T time to complete.
-> - The recovery time after the plan is complete will take less than R time.
-> - The plan carries less than D% chance of death.
-> - The plan carries less than P% chance of permanent disability.
-> - The plan increases the survival chances for the other person by at least S%.
-
-Any policy that mandates a medical path without addressing all six parameters or carves out special treatment for specific procedures is intellectually indefensible and ethically reckless.
-
-<br>
-> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test A)
-> - The plan will cost less than $C.
-> - The plan will require spending less than T time to complete.
-
-> <div style="font-family: monospace; font-size:95%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
-> - <div style="font-family: monospace; font-size:90%; line-height:1.2;">The plan will cost less than $C.</div>
-> - <div style="font-family: monospace; font-size:90%; line-height:1.2;">The plan will require spending less than T time to complete.</div>
-
-> <div style="font-family: monospace; font-size:95%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
+> <div style="font-family: monospace; font-size:95%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when:</div>
 > - <div style="font-family: monospace; font-size:90%; line-height:1.1;">The plan will cost less than $C.</div>
 > - <div style="font-family: monospace; font-size:90%; line-height:1.1;">The plan will require spending less than T time to complete.</div>
+> - <div style="font-family: monospace; font-size:90%; line-height:1.1;">The recovery time after the plan is complete will take less than R time.</div>
+> - <div style="font-family: monospace; font-size:90%; line-height:1.1;">The plan carries less than D% chance of death.</div>
+> - <div style="font-family: monospace; font-size:90%; line-height:1.1;">The plan carries less than P% chance of permanent disability.</div>
+> - <div style="font-family: monospace; font-size:90%; line-height:1.1;">The plan increases the survival chances for the other person by at least S%.</div>
 
-> <div style="font-family: monospace; font-size:95%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
-> - <div style="font-family: monospace; font-size:95%; line-height:1.2;">The plan will cost less than $C.</div>
-> - <div style="font-family: monospace; font-size:95%; line-height:1.2;">The plan will require spending less than T time to complete.</div>
-
-> <div style="font-family: monospace; font-size:95%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
-> - <div style="font-family: monospace; font-size:95%; line-height:1.1;">The plan will cost less than $C.</div>
-> - <div style="font-family: monospace; font-size:95%; line-height:1.1;">The plan will require spending less than T time to complete.</div>
+Any policy that mandates a medical path without addressing all six parameters or carves out special treatment for specific procedures is intellectually indefensible and ethically reckless.
