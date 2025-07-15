@@ -45,26 +45,16 @@ Any rational answer to that question will minimally include the six parameters a
 
 Any policy that mandates a medical path without addressing all six parameters or carves out special treatment for specific procedures is intellectually indefensible and ethically reckless.
 
+<br>
 > The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test A)
 > - The plan will cost less than $C.
 > - The plan will require spending less than T time to complete.
 
-> <code>The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test C)</code>
-> - <code>The plan will cost less than $C.</code>
-> - <code>The plan will require spending less than T time to complete.</code>
-
-> <div style="font-family: monospace; white-space: normal;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
-> - <div style="font-family: monospace; white-space: normal;">The plan will cost less than $C.</div>
-> - <div style="font-family: monospace; white-space: normal;">The plan will require spending less than T time to complete.</div>
+> <div style="font-family: monospace; font-size:90%; line-height:1.3;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test D)</div>
+> - <div style="font-family: monospace; font-size:90%; line-height:1.3;">The plan will cost less than $C.</div>
+> - <div style="font-family: monospace; font-size:85%; line-height:1.2;">The plan will require spending less than T time to complete.</div>
 
 > <span style="font-family: monospace;">The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: (Test F)</span>
 > - <span style="font-family: monospace;">The plan will cost less than $C.</span>
 > - <span style="font-family: monospace;">The plan will require spending less than T time to complete.</span>
 
-
-### Test D — `<div>` with Inline Styling Inside Quote  
-> <div style="font-family: monospace; white-space: normal;">
-> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when: This text should be monospaced with wrapping.
-> </div>  
-> - Single bullet for layout visibility  
-> *Test: Styled `<div>` inside a quote*
