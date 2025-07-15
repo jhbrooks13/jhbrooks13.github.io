@@ -35,13 +35,16 @@ Based on the thought experiment above, my original question can be more clearly 
 <br>
 Any rational answer to that question will minimally include the six parameters above (T, R, D%, P%, $C, and S%). Every well-considered option could be documented in the following format:
 
-> The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when:
-> - The plan will cost less than $C.
-> - The plan will require spending less than T time to complete.
-> - The recovery time after the plan is complete will take less than R time.
-> - The plan carries less than D% chance of death.
-> - The plan carries less than P% chance of permanent disability.
-> - The plan increases the survival chances for the other person by at least S%.
+<div style="margin-left: 4em;">
+The government should mandate that a person follows a specific medical plan (have or reject a medical procedure) when:
+  
+- The plan will cost less than $C.
+- The plan will require spending less than T time to complete.
+- The recovery time after the plan is complete will take less than R time.
+- The plan carries less than D% chance of death.
+- The plan carries less than P% chance of permanent disability.
+- The plan increases the survival chances for the other person by at least S%.
+</div>
 
 Any policy that mandates a medical path without addressing all six parameters or carves out special treatment for specific procedures is intellectually indefensible and ethically reckless.
 
