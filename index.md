@@ -11,6 +11,8 @@ All writings are freely accessible to anyone who finds value in them. Contributi
 
 [Brooks' Law of Assumptions](Brooks-Law-of-Assumptions)
 
+[Government Mandated Medical Decisions](Government-Mandated-Medical-Decisions)
+
 [LEARN and IMPROVE](learn-improve)
 <br><br>
 
