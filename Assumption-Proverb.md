@@ -1,10 +1,9 @@
 ---
 title: Assumption Proverb
-description: A philosophical reflection on the risks of assumptions.
+description: A modern proverb on the risks of assumptions.
 permalink: /Assumption-Proverb
 ---
 
-## Assumption Proverb:
 ### The only reliable assumption is that assumptions increase risk.
  —John H Brooks
 <br><br><br>
