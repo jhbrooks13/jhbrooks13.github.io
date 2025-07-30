@@ -9,7 +9,7 @@ All writings are freely accessible to anyone who finds value in them. Contributi
 
 ---
 
-[Brooks' Law of Assumptions](Brooks-Law-of-Assumptions)
+[Assumption Proverb](Assumption-Proverb)
 
 [Government Mandated Medical Decisions](Government-Mandated-Medical-Decisions)
 
